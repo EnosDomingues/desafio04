@@ -24,7 +24,7 @@ function Feed() {
              <img src={avatar2} /> 
               <div className="feed-comments">
                 <div className="comment">
-                  <span class="comment-text">
+                  <span className="comment-text">
                   <strong>Diego Fernandes</strong> A Rocketseat está 
                   sempre em busca de novos membros 
                   para o time, e geralmente ficamos 
@@ -57,7 +57,7 @@ function Feed() {
              <img src={avatar2} /> 
               <div className="feed-comments">
                 <div className="comment">
-                  <span class="comment-text">
+                  <span className="comment-text">
                   <strong>Diego Fernandes</strong> A Rocketseat está 
                   sempre em busca de novos membros 
                   para o time, e geralmente ficamos 
@@ -90,7 +90,7 @@ function Feed() {
              <img src={avatar2} /> 
               <div className="feed-comments">
                 <div className="comment">
-                  <span class="comment-text">
+                  <span className="comment-text">
                   <strong>Diego Fernandes</strong> A Rocketseat está 
                   sempre em busca de novos membros 
                   para o time, e geralmente ficamos 
@@ -123,7 +123,7 @@ function Feed() {
              <img src={avatar2} /> 
               <div className="feed-comments">
                 <div className="comment">
-                  <span class="comment-text">
+                  <span className="comment-text">
                   <strong>Diego Fernandes</strong> A Rocketseat está 
                   sempre em busca de novos membros 
                   para o time, e geralmente ficamos 

@@ -29,7 +29,13 @@ module.exports = {
           { loader: 'style-loader' },
           { loader: 'css-loader' },
         ]
+      },
+      {
+        test: /\.svg$/,
+        use: {
+        loader: 'svg-inline-loader',
       }
+    }
     ]
   }
 }

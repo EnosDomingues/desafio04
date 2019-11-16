@@ -38,3 +38,15 @@ header#main-header div#side {
 header#main-header img {
   margin: 0 40px;
 }
+
+.profile-svg {
+  fill: #fff;
+  width: 20px;
+  height: 20px;
+  margin-left: 9px;
+}
+
+.str {
+  display: flex;
+  align-items: center;
+}
