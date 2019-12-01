@@ -5,7 +5,7 @@ import avatar2 from '../../assets/avatar2.png';
 
 function Feed() {
   return (
-    <div id="feed">
+    <div id="post-list">
         <ul>
           <li>
             <div className="feed-component">

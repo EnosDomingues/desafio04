@@ -12,7 +12,7 @@ input, button {
   border-radius: 4px;
 }
 
-div#feed ul{
+div#post-list ul{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -21,7 +21,7 @@ div#feed ul{
   margin-top: 20px;
 }
 
-div#feed ul li div.content {
+div#post-list ul li div.content {
   font-size: 14px;
   color: #4A4A4A;
   list-style: none;
@@ -33,13 +33,13 @@ div#feed ul li div.content {
   margin: 20px 10px 20px 0;
 }
 
-div#feed ul li div.content small {
+div#post-list ul li div.content small {
   font-size: 11;
   color: #9A9A9A;
 
 }
 
-div#feed ul li img{
+div#post-list ul li img{
   height: 32px;
   width: 32px;
   border-radius: 50%;
@@ -63,7 +63,7 @@ hr {
   margin: 16px 20px 0 20px;
 }
 
-div#feed ul li div.feed-comments {
+div#post-list ul li div.feed-comments {
   font-size: 14px;
   color: #4A4A4A;
   list-style: none;
