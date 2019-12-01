@@ -21,6 +21,10 @@ div#post-list ul{
   margin-top: 20px;
 }
 
+#ul-comment{
+  margin-top: 1px !important;
+}
+
 div#post-list ul li div.content {
   font-size: 14px;
   color: #4A4A4A;
@@ -82,4 +86,3 @@ div#post-list ul li div.feed-comments {
   border-radius: 20px;
   padding: 14px 15px 6px 15px;
 }
-

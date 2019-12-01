@@ -1,3 +1,4 @@
+  
 import React from 'react';
 
 function Comment({ author, avatar, content }) {
